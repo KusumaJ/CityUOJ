@@ -3,6 +3,8 @@
         "iostream": "cpp",
         "utility": "cpp",
         "limits": "cpp",
-        "istream": "cpp"
-    }
+        "istream": "cpp",
+        "xutility": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
 }
